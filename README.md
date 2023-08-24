@@ -37,11 +37,11 @@ wanted 프리온보딩 1주차 과제입니다 🔥
     
     **token O**
     
-    ![](https://file.notion.so/f/s/42102e9e-787f-442d-aa08-2acae07fcb84/Untitled.gif?id=7a4192da-0023-48b0-81d7-5fa1b5fc86cf&table=block&spaceId=4ad879ee-8801-419a-8198-54a28ce85176&expirationTimestamp=1691532000000&signature=DQ4JG81Ml372m9utpqF_dYnWTHNUpuzpyJZuRe3xxrw&downloadName=Untitled.gif)
+    ![](https://github.com/jsdmas/jsdmas.github.io/assets/105098581/0091eff0-d764-4f3d-91bd-ea0ee0851c7b)
     
     **token X**
     
-    ![](https://file.notion.so/f/s/f57b6dcc-5937-447a-b4e5-9095f0e13106/Untitled.gif?id=ec9320ae-101d-443d-98ab-8f8896d27732&table=block&spaceId=4ad879ee-8801-419a-8198-54a28ce85176&expirationTimestamp=1691532000000&signature=cf4mzvzhpLlV-_P8OU2e3CFEocr-7Hi7F_rg1iL7CmI&downloadName=Untitled.gif)
+    ![](https://github.com/jsdmas/jsdmas.github.io/assets/105098581/da356524-06fb-449a-945e-351e2b11c3f3)
     
 
 ## ‼️ **깨달은 점**
